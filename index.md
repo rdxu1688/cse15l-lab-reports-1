@@ -1,3 +1,3 @@
-# Hello World!\
-## Name: Ron Lai\
-## Favorite Animal: Dog\
+# Hello World!
+## Name: Ron Lai
+## Favorite Animal: Dog

@@ -13,24 +13,18 @@ Imagine that you are working to a company. YOu are not working on your computer 
 ![Image](hunting.jpg)
 \
 __Since there is so many people working with the server, some errors may be happened. Please be patients and keep trying.__ 
-\
-\
-\
+<br />
+<br />
+
 Feel Free to ask questions if you feel lost.
-\
-\
-\
-\
-<empty>
+<br />
+<br />
 
 ## Part 0 -  Password Reset and Looking up your account
-\
+
 This part is a part of part 2, but I recommand doing early because you may have trouble on reseting your password.
 
 * Go to https://sdacs.ucsd.edu/~icc/index.php to look up your ieng6 account
-\
-\
-<empty>
 
 ## Part 1 - Installing Visual Studio
 \

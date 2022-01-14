@@ -42,7 +42,8 @@ The first thing we need to do is downloading Visual Studio Code(VSCode). VSCode 
 ![Image](VS.png)
 
 ## Part 3 Remotely Connecting
-\
+
+
 After we download the VScode, we can try to connect to the ieng6 server. 
 
     If you have not finished part 0 yet, please go back and finish it beacause you need to know your account to log-in the server.
@@ -72,6 +73,7 @@ The following steps are coming from this article: [Remote Development using SSH]
 You can see that the directory has changed. Now, your command type on the terminal will happen another computer(Server).
 
 ## Part 4 Trying Some Commands
+
 
 Let's try out different command on the terminal.
 - cd
@@ -152,6 +154,8 @@ Now, you should be able to login without password.
 
 
 ## Part 7 Optimizing Remote Running
+
+
 Now Lets learn how to command remotely. 
 
 lets try this TWO commandS

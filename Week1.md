@@ -20,13 +20,18 @@ Feel Free to ask questions if you feel lost.
 <br />
 <br />
 
-## Part 0 -  Password Reset and Looking up your account
+## Part 1 -  Password Reset and Looking up your account
 
 This part is a part of part 2, but I recommand doing early because you may have trouble on reseting your password.
 
 * Go to https://sdacs.ucsd.edu/~icc/index.php to look up your ieng6 account
 
-## Part 1 - Installing Visual Studio
+
+When we are waiting, let introduce ourselves to your groupmate\
+\
+<br />
+
+## Part 2 - Installing Visual Studio
 \
 The first thing we need to do is downloading Visual Studio Code(VSCode). VSCode is one of the famous Integrated Development Environment(IDE). This web and cloud application allows people to code with various extensions. We are going to use it to connect to our ieng6 server, but now, let download it on our computer first.
 
@@ -36,7 +41,7 @@ The first thing we need to do is downloading Visual Studio Code(VSCode). VSCode 
 
 ![Image](VS.png)
 
-## Part 2 Remotely Connecting
+## Part 3 Remotely Connecting
 \
 After we download the VScode, we can try to connect to the ieng6 server. 
 
@@ -62,13 +67,12 @@ The following steps are coming from this article: [Remote Development using SSH]
 4. Then, you will get into the server.
 
     ![Image](login1.jpg)
-    
-You can see that the directory has changed. Now, your command type on the terminal will happen another computer(Server).
-\
-\
-<empty>
 
-## Part 3 Trying Some Commands
+
+You can see that the directory has changed. Now, your command type on the terminal will happen another computer(Server).
+
+## Part 4 Trying Some Commands
+
 Let's try out different command on the terminal.
 - cd
     - cd ~
@@ -84,9 +88,13 @@ Let's try out different command on the terminal.
         You can use ctrl+d or type exit to leave the server
 
 After you try out some command, please explain it on the google doc.
+
 ![Image](command.png)
 
-## Part 4 moving FIles with ___scp___
+
+## Part 5 moving FIles with ___scp___
+
+
 Now, you have some understanding to connect to the server. Let's learn how to cope a file from your computer to the server.(It can be helpful on submiting homework.)
 
 The command We are going to use is ___.scp___
@@ -118,7 +126,9 @@ ___.scp___ command is used on your computer instead of the server, so please log
 
 6. Please explain what program does and what is the result.
 
-## Part 5 Setting an ___SSH___ Key
+
+## Part 6 Setting an ___SSH___ Key
+
 
 you may notice that we have to use password when we log-in server. It is key of fraustrating, so we should use public key and private key to skip this process. What they does is let your computer having a key. When you do task in this computer, the server will recognize the key and let to get into it.
 
@@ -140,7 +150,8 @@ Otherwise, you can use the following image.
 ![image](code.jpg)
 Now, you should be able to login without password.
 
-## Part 6 Optimizing Remote Running
+
+## Part 7 Optimizing Remote Running
 Now Lets learn how to command remotely. 
 
 lets try this TWO commandS
@@ -150,7 +161,9 @@ lets try this TWO commandS
 
 let's tell us how does the command work.
 
+
 ## Part 8 Wrapup
+
 
 Congragulation! You learned the basic of VSCode. Let try to make some reflection.
 

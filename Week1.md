@@ -21,7 +21,7 @@ Feel Free to ask questions if you feel lost.
 <br />
 
 ## Part 1 -  Password Reset and Looking up your account
-
+---
 This part is a part of part 2, but I recommand doing early because you may have trouble on reseting your password.
 
 * Go to [Educational Technology Services](https://sdacs.ucsd.edu/~icc/index.php) to look up your ieng6 account
@@ -32,7 +32,7 @@ When we are waiting, let introduce ourselves to your groupmate\
 <br />
 
 ## Part 2 - Installing Visual Studio
-\
+---
 The first thing we need to do is downloading Visual Studio Code(VSCode). VSCode is one of the famous Integrated Development Environment(IDE). This web and cloud application allows people to code with various extensions. We are going to use it to connect to our ieng6 server, but now, let download it on our computer first.
 
 1. Go to [VScode website](https://code.visualstudio.com/.html) to download this application
@@ -46,8 +46,7 @@ The first thing we need to do is downloading Visual Studio Code(VSCode). VSCode 
 
 
 ## Part 3 Remotely Connecting
-
-
+---
 After we download the VScode, we can try to connect to the ieng6 server. 
 
     If you have not finished part 0 yet, please go back and finish it beacause you need to know your account to log-in the server.
@@ -85,7 +84,7 @@ You can see that the directory has changed. Now, your command type on the termin
 
 
 ## Part 4 Trying Some Commands
-
+---
 
 Let's try out different command on the terminal.
 - cd
@@ -113,7 +112,7 @@ After you try out some command, please explain it on the google doc.
 
 
 ## Part 5 moving FIles with ___scp___
-
+---
 
 Now, you have some understanding to connect to the server. Let's learn how to cope a file from your computer to the server.(It can be helpful on submiting homework.)
 
@@ -151,7 +150,7 @@ ___.scp___ command is used on your computer instead of the server, so please log
 
 
 ## Part 6 Setting an ___SSH___ Key
-
+---
 
 you may notice that we have to use password when we log-in server. It is key of fraustrating, so we should use public key and private key to skip this process. What they does is let your computer having a key. When you do task in this computer, the server will recognize the key and let to get into it.
 
@@ -179,7 +178,7 @@ Now, you should be able to login without password.
 
 
 ## Part 7 Optimizing Remote Running
-
+---
 
 Now Lets learn how to command remotely. 
 
@@ -194,7 +193,7 @@ let's tell us how does the command work.\
 
 
 ## Part 8 Wrapup
-
+---
 
 Congragulation! You learned the basic of VSCode. Let try to make some reflection.
 

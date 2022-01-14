@@ -16,23 +16,34 @@ __Since there is so many people working with the server, some errors may be happ
 \
 \
 \
-\
-\
 Feel Free to ask questions if you feel lost.
-## Part 0 Password Reset and Looking up your account
+\
+\
+\
+\
+<empty>
+
+## Part 0 -  Password Reset and Looking up your account
 \
 This part is a part of part 2, but I recommand doing early because you may have trouble on reseting your password.
+
 * Go to https://sdacs.ucsd.edu/~icc/index.php to look up your ieng6 account
-## Part 1 Installing Visual Studio
+\
+\
+<empty>
+
+## Part 1 - Installing Visual Studio
 \
 The first thing we need to do is downloading Visual Studio Code(VSCode). VSCode is one of the famous Integrated Development Environment(IDE). This web and cloud application allows people to code with various extensions. We are going to use it to connect to our ieng6 server, but now, let download it on our computer first.
 
 1. Go to VScode website to download this application https://code.visualstudio.com/.html
 2. After you download it sucessfully, screenshot the VSCode interface and upload it to the google doc.
 
+
 ![Image](VS.png)
 
 ## Part 2 Remotely Connecting
+\
 After we download the VScode, we can try to connect to the ieng6 server. 
 
     If you have not finished part 0 yet, please go back and finish it beacause you need to know your account to log-in the server.
@@ -58,7 +69,11 @@ The following steps are coming from this article: [Remote Development using SSH]
 
     ![Image](login1.jpg)
     
-You can see that the directory has changed. Now, your command type on the terminal will happen another computer(Server) .
+You can see that the directory has changed. Now, your command type on the terminal will happen another computer(Server).
+\
+\
+<empty>
+
 ## Part 3 Trying Some Commands
 Let's try out different command on the terminal.
 - cd
@@ -85,17 +100,26 @@ The command We are going to use is ___.scp___
 ___.scp___ command is used on your computer instead of the server, so please log-out the server before use it.
 
 1. Let create a file called WhereAmI.java to upload it to ieng6
-    
+    \
+    \
     Here is the code:
+    \
+    \
     ![image](java.png)
-2. Let compile the program to see what it does 
-2. Use the scp command, replace YourAccountName
+    \
+    <empty>
+2. Let compile the program to see what it does
+
+3. Use the scp command, replace YourAccountName
+ 
 
         scp WhereAmI.java YourAccountName@ieng6.ucsd.edu:~/
-3. Log in back to your account / the server to see the file using the command ___ls___
+4. Log in back to your account / the server to see the file using the command ___ls___
 
     ![image](file.png)
+
 5. Compile WhereAmI.java again and run it to see what happen
+
 ![image](place.png)
 
 6. Please explain what program does and what is the result.

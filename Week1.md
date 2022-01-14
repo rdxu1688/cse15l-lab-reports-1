@@ -40,6 +40,10 @@ The first thing we need to do is downloading Visual Studio Code(VSCode). VSCode 
 
 
 ![Image](VS.png)
+\
+\
+<br />
+
 
 ## Part 3 Remotely Connecting
 
@@ -71,6 +75,10 @@ The following steps are coming from this article: [Remote Development using SSH]
 
 
 You can see that the directory has changed. Now, your command type on the terminal will happen another computer(Server).
+\
+\
+<br />
+
 
 ## Part 4 Trying Some Commands
 
@@ -92,6 +100,9 @@ Let's try out different command on the terminal.
 After you try out some command, please explain it on the google doc.
 
 ![Image](command.png)
+\
+\
+<br />
 
 
 ## Part 5 moving FIles with ___scp___
@@ -127,6 +138,9 @@ ___.scp___ command is used on your computer instead of the server, so please log
 ![image](place.png)
 
 6. Please explain what program does and what is the result.
+\
+\
+<br />
 
 
 ## Part 6 Setting an ___SSH___ Key
@@ -151,6 +165,10 @@ Otherwise, you can use the following image.
 9. log-out and use .scp command to upload your public key to the server
 ![image](code.jpg)
 Now, you should be able to login without password.
+\
+\
+<br />
+
 
 
 ## Part 7 Optimizing Remote Running
@@ -163,7 +181,9 @@ lets try this TWO commandS
     $ ssh cs15lwi22@ieng6.ucsd.edu "LS"
     $ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
 
-let's tell us how does the command work.
+let's tell us how does the command work.\
+\
+<br />
 
 
 ## Part 8 Wrapup

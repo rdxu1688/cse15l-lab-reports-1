@@ -24,7 +24,7 @@ Feel Free to ask questions if you feel lost.
 
 This part is a part of part 2, but I recommand doing early because you may have trouble on reseting your password.
 
-* Go to https://sdacs.ucsd.edu/~icc/index.php to look up your ieng6 account
+* Go to [Educational Technology Services](https://sdacs.ucsd.edu/~icc/index.php) to look up your ieng6 account
 
 
 When we are waiting, let introduce ourselves to your groupmate\
@@ -35,7 +35,7 @@ When we are waiting, let introduce ourselves to your groupmate\
 \
 The first thing we need to do is downloading Visual Studio Code(VSCode). VSCode is one of the famous Integrated Development Environment(IDE). This web and cloud application allows people to code with various extensions. We are going to use it to connect to our ieng6 server, but now, let download it on our computer first.
 
-1. Go to VScode website to download this application https://code.visualstudio.com/.html
+1. Go to [VScode website](https://code.visualstudio.com/.html) to download this application
 2. After you download it sucessfully, screenshot the VSCode interface and upload it to the google doc.
 
 
@@ -77,7 +77,11 @@ The following steps are coming from this article: [Remote Development using SSH]
 You can see that the directory has changed. Now, your command type on the terminal will happen another computer(Server).
 \
 \
+\
+\
 <br />
+
+
 
 
 ## Part 4 Trying Some Commands
@@ -94,9 +98,12 @@ Let's try out different command on the terminal.
 - cp
 - cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
 - cat /home/linux/ieng6/cs15lwi22/public/hello.txt
+\
+<br />
 
         You can use ctrl+d or type exit to leave the server
 
+<br />
 After you try out some command, please explain it on the google doc.
 
 ![Image](command.png)

@@ -102,14 +102,15 @@ Let's try out different command on the terminal.
 
         You can use ctrl+d or type exit to leave the server
 
-<br />
-After you try out some command, please explain it on the google doc.
 
 ![Image](command.png)
 \
 \
 <br />
-
+After you try out some command, please explain it on the google doc.
+\
+\
+<br />
 
 ## Part 5 moving FIles with ___scp___
 ---
@@ -129,10 +130,12 @@ ___.scp___ command is used on your computer instead of the server, so please log
     ![image](java.png)
     \
     <empty>
-2. Let compile the program to see what it does
+2. Let compile and run the program to see what it does
+
+        javac WhereAmI.java
+        java WhereAmI
 
 3. Use the scp command, replace YourAccountName
- 
 
         scp WhereAmI.java YourAccountName@ieng6.ucsd.edu:~/
 4. Log in back to your account / the server to see the file using the command ___ls___

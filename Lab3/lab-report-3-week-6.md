@@ -1,5 +1,5 @@
 # [CSE 15L](https://ronlai8o.github.io/cse15l-lab-reports/)
-## Week 6 - Remote Access and File sysyem
+### Week 6 - Remote Access and File sysyem
 \
 In this lab reports, I choose Question 3: Copy whole directories with the command __scp -r__
 ![image scp](scpOnly.jpg)
